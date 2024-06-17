@@ -1,0 +1,9 @@
+#spirit {
+    width: 1500px;
+    height: 750px;
+}
+
+body {
+    background-color: black;
+    overflow: hidden;
+}
